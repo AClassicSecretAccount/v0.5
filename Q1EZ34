@@ -219,7 +219,7 @@ findhunt.BorderSizePixel = 0
 findhunt.Position = UDim2.new(0.516121268, 0, 0.450221181, 0)
 findhunt.Size = UDim2.new(0, 95, 0, 50)
 findhunt.Font = Enum.Font.Roboto
-findhunt.Text = "Not Coming Soon"
+findhunt.Text = "Coming very soon"
 findhunt.TextColor3 = Color3.fromRGB(255, 255, 255)
 findhunt.TextSize = 14.000
 

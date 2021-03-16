@@ -196,7 +196,7 @@ Credits.BorderSizePixel = 0
 Credits.Position = UDim2.new(-0.000933118281, 0, 0.91958034, 0)
 Credits.Size = UDim2.new(0, 127, 0, 22)
 Credits.Font = Enum.Font.Roboto
-Credits.Text = "Made By Seirei on YT"
+Credits.Text = "Made By Maou DDRace on YT"
 Credits.TextColor3 = Color3.fromRGB(255, 255, 255)
 Credits.TextSize = 14.000
 
@@ -289,7 +289,7 @@ end
 
 u = 0
 u = 1
-)
+end)
 
 speed.Name = "speed"
 speed.Parent = Gui

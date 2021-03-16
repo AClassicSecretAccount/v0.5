@@ -207,7 +207,7 @@ Guiname.BorderSizePixel = 0
 Guiname.Position = UDim2.new(-0.000933077186, 0, -0.00132650137, 0)
 Guiname.Size = UDim2.new(0, 229, 0, 50)
 Guiname.Font = Enum.Font.Roboto
-Guiname.Text = "FramedGui v0.5"
+Guiname.Text = "FramedGui v0.5 (Probably Final version)"
 Guiname.TextColor3 = Color3.fromRGB(255, 255, 255)
 Guiname.TextSize = 20.000
 

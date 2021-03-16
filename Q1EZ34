@@ -126,7 +126,7 @@ _1hit.BorderSizePixel = 0
 _1hit.Position = UDim2.new(0.275421023, 0, 0.195804194, 0)
 _1hit.Size = UDim2.new(0, 95, 0, 50)
 _1hit.Font = Enum.Font.Roboto
-_1hit.Text = "1Hit"
+_1hit.Text = "Broken"
 _1hit.TextColor3 = Color3.fromRGB(255, 255, 255)
 _1hit.TextSize = 15.000
 _1hit.MouseButton1Down:connect(function()
@@ -173,7 +173,7 @@ mp5.BorderSizePixel = 0
 mp5.Position = UDim2.new(0.275421023, 0, 0.706293702, 0)
 mp5.Size = UDim2.new(0, 95, 0, 50)
 mp5.Font = Enum.Font.Roboto
-mp5.Text = "MP5 1Hit"
+mp5.Text = "Broken"
 mp5.TextColor3 = Color3.fromRGB(255, 255, 255)
 mp5.TextSize = 15.000
 mp5.MouseButton1Down:connect(function()
@@ -193,7 +193,7 @@ Credits.Name = "Credits"
 Credits.Parent = Gui
 Credits.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 Credits.BorderSizePixel = 0
-Credits.Position = UDim2.new(-0.000933118281, 0, 0.91958034, 0)
+Credits.Position = UDim2.new(-0.000933118281, 35, 0.91958034, 0)
 Credits.Size = UDim2.new(0, 127, 0, 22)
 Credits.Font = Enum.Font.Roboto
 Credits.Text = "Made By Maou DDRace on YT"
@@ -207,7 +207,7 @@ Guiname.BorderSizePixel = 0
 Guiname.Position = UDim2.new(-0.000933077186, 0, -0.00132650137, 0)
 Guiname.Size = UDim2.new(0, 229, 0, 50)
 Guiname.Font = Enum.Font.Roboto
-Guiname.Text = "FramedGui v0.5 (Probably Final version)"
+Guiname.Text = "FramedGui v0.5"
 Guiname.TextColor3 = Color3.fromRGB(255, 255, 255)
 Guiname.TextSize = 20.000
 
